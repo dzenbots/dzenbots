@@ -38,7 +38,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  width="40" height="40" title="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  width="40" height="40" title="Ubuntu"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  width="40" height="40" title="VS Code"/>
-  <img src=""  width="40" height="40" title=""/>
-  <img src=""  width="40" height="40" title=""/>
-  <img src=""  width="40" height="40" title=""/>
 </div>
